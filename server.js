@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Hello World");
+  res.send("Welcome to Nick Davis's Development Profile. Not sure how you ended up here, but I am pleased to have you. Take a look around and, if you're lost, try checking out the <a href = 'https://nicholas-davis-dev.netlify.app/projects'>Projects page</a>!");
 });
 
 app.get("/projects", (req, res) => {
