@@ -16,6 +16,10 @@ app.get("/projects", (req, res) => {
   res.json(projects);
 });
 
+app.get("/index.html", (req, res) => {
+    res.send("How'd you end up here?");
+  });
+
 app.get("/about", (req, res) => {
   res.json(about);
 });
