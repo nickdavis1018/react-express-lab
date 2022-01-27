@@ -27,7 +27,7 @@
       "name": "On/board",
       "live": "https://onboard-ga.netlify.app/",
       "git": "https://github.com/nickdavis1018/onboard-front",
-      "image": "https://imgur.com/EiRoA9b.png",
+      "image": "https://imgur.com/HO1ehZY.png",
       "about": "Employee on-boarding/off-boarding application with a user model consisting of two roles (manager, lead) and an employee model with full CRUD functionality to managers. Users can create new employees, change statuses on employees, and assign employees to one another for processing.",
       "technologies": "HTML/CSS, Javascript, React, Ruby on Rails, JWT"
     }
