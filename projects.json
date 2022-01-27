@@ -4,13 +4,31 @@
       "live": "https://general-dictionary.netlify.app/",
       "git": "https://github.com/nickdavis1018/general-dictionary",
       "image": "https://imgur.com/stQSvdj.png",
-      "about": "Language and communication have always been passions of mine. For my first project, I used HTML, CSS, JavaScript, jQuery, and AJAX to build an app that highlights these passions, by allowing users to search for dictionary word definitions, pronunciations, and oriigns. I also added a couple features to allow users to store favorite words as well as generate random words. Feel free to take a look around and provide feedback."
+      "about": "For my first project, I used HTML, CSS, JavaScript, jQuery, and AJAX to build an app that gives users the ability search for dictionary word definitions, pronunciations, and origins. I also added a couple features to allow users to store favorite words as well as generate random words, to demonstrate simple Javascript features.",
+      "technologies": "HTML/CSS, jQuery, Javascript, AJAX"
     },
     {
       "name": "General Journal",
       "live": "https://general-journal.herokuapp.com/",
       "git": "https://github.com/nickdavis1018/general-journal",
       "image": "https://imgur.com/8yBPAuC.png",
-      "about": "For my second project, utilizing HTML, CSS, JavaScript, EJS, Node.js, and MongoDB, I built an app that lets users create an account, store private journal notes/reminders for themselves, as well as post public notes to the General Journal community. The application's main focus is to demonstrate knowledge of authentication and authorization while allowing for full CRUD functionality. Take a look around and feel free to pass along feedback!"
+      "about": "Public journal and simple posting app, allowing users to create an account, store private journal notes/reminders, and post public notes to the General Journal community. The application's main focus is to demonstrate basic knowledge of authentication and authorization, while allowing for full CRUD functionality to logged in users.",
+      "technologies": "HTML/CSS, Javascript, jQuery, ExpressJS, NodeJS, MongoDB, Heroku, JWT"
+    },
+    {
+      "name": "Events n' Stuff",
+      "live": "https://events-n-stuff.netlify.app/",
+      "git": "https://github.com/ajsur1017/events-n-stuff-FRONTEND/",
+      "image": "https://imgur.com/xKUmn1n.png",
+      "about": "Event tracking application, allowing users to login and create/edit events assigned to them. Logged-in users can also add themselves to events as attendees. Team-built project, focused on front-end functions and state utilization.",
+      "technologies": "HTML/CSS, Javascript, React, Bootstrap, JWT"
+    },
+    {
+      "name": "On/board",
+      "live": "https://onboard-ga.netlify.app/",
+      "git": "https://github.com/nickdavis1018/onboard-front",
+      "image": "https://imgur.com/EiRoA9b.png",
+      "about": "Employee on-boarding/off-boarding application with a user model consisting of two roles (manager, lead) and an employee model with full CRUD functionality to managers. Users can create new employees, change statuses on employees, and assign employees to one another for processing.",
+      "technologies": "HTML/CSS, Javascript, React, Ruby on Rails, JWT"
     }
   ]
